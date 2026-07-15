@@ -1,0 +1,6 @@
+[submodule "fastbook"]
+	path = fastbook
+	url = https://github.com/fastai/fastbook.git
+[submodule "fastbook-zh"]
+	path = fastbook-zh
+	url = https://github.com/immc-lab/fastbook-zh.git
