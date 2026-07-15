@@ -1,9 +1,0 @@
-# 翻译流程依赖（Windows 下 pip install torch 默认就是 CPU 版，够本机验证用）
-# GPU 推理走 ctranslate2 自带的 CUDA，无需 CUDA 版 torch
-torch
-transformers>=4.44
-sentencepiece
-ctranslate2>=4.0
-fastapi
-uvicorn[standard]
-httpx

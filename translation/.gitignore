@@ -1,9 +1,0 @@
-# 虚拟环境
-.venv/
-# 模型文件（几个 G ~ 十几个 G，绝不入库）
-madlad400-3b-ct2-int8/
-*.bin
-*.safetensors
-# Python 缓存
-__pycache__/
-*.pyc
