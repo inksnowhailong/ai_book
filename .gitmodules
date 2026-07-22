@@ -3,4 +3,4 @@
 	url = https://github.com/fastai/fastbook.git
 [submodule "fastbook-zh"]
 	path = fastbook-zh
-	url = https://github.com/immc-lab/fastbook-zh.git
+	url = https://github.com/inksnowhailong/fastbook-zh.git
